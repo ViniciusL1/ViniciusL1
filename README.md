@@ -1,6 +1,6 @@
 ### Hi 👍
 
-I'm Vinicius Lima, I'm a mobile Developer
+I'm Vinicius Lima, I'm a FullStack Developer
 
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusL1&show_icons=true&theme=tokyonight)
